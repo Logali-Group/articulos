@@ -2,7 +2,7 @@
 body { text-align: justify; hyphens: auto; }
 </style>
 
-# Composition of One en SAP CAP: por qué falla con Draft y cuál es la alternativa
+# Composition of One en CAP: ¿por qué falla con Draft y cuál es la alternativa?
 
 - [1. Introducción](#1-introducción)
 - [2. Associations y Compositions: dos modelos de relación](#2-associations-y-compositions-dos-modelos-de-relación)
