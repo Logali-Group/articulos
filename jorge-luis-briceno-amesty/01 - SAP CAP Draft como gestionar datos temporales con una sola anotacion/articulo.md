@@ -4,7 +4,7 @@ img { display: block; margin: 0 auto; }
 p:has(> img) { text-align: center; }
 </style>
 
-# SAP CAP Draft: cómo gestionar datos temporales con una sola anotación
+# SAP CAP Draft: ¿cómo gestionar datos temporales con una sola anotación?
 
 - [1. Introducción](#1-introducción)
 - [2. Fundamentos del Draft en SAP CAP](#2-fundamentos-del-draft-en-sap-cap)
